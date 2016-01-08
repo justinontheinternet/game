@@ -1,12 +1,5 @@
-@players = [
-  {
-  name: "Player 1",
-  score: 3
-},
-{
-  name: "Player 2",
-  score: 3
-  }]
+
+@players = []
 
 @number_1 = 0
 @number_2 = 0
